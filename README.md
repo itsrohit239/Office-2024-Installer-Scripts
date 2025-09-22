@@ -50,7 +50,7 @@ These scripts are compatible with:
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/itsrohit239/office-2024-installer.git
+   [git clone https://github.com/itsrohit239/office-2024-installer.git](https://github.com/itsrohit239/Office-2024-Installer-Scripts.git)
    ```
 
 2. **Choose the correct installer**:
@@ -104,7 +104,7 @@ If you do not have an activation key, you can find a script for activation on my
 
 ## 📄 License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is released under the MIT License
 Feel free to modify and distribute with attribution.
 
 ---
@@ -113,6 +113,6 @@ Feel free to modify and distribute with attribution.
 ## 🙌 Support
 
 If you find this useful, give it a ⭐ on GitHub!  
-For issues or suggestions, feel free to open an [issue](https://github.com/itsrohit239/office-2024-installer/issues).
+For issues or suggestions, feel free to open an issue. 
 
 ---
