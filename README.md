@@ -50,7 +50,7 @@ These scripts are compatible with:
 
 1. **Download or clone** this repository:
    ```bash
-   [git clone https://github.com/itsrohit239/office-2024-installer.git](https://github.com/itsrohit239/Office-2024-Installer-Scripts.git)
+   https://github.com/itsrohit239/Office-2024-Installer-Scripts.git
    ```
 
 2. **Choose the correct installer**:
