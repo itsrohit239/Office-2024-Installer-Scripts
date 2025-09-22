@@ -83,8 +83,8 @@ These scripts are compatible with:
 ---
 ## 🔑 Activation Help
 
-If you do not have an activation key, you can find a script for activation on my GitHub profile:  
-👉 [https://github.com/itsrohit239](https://github.com/itsrohit239)
+If you do not have an activation key, Go Here For Activation :  
+👉 https://github.com/massgravel/Microsoft-Activation-Scripts.git
 
 ---
 
